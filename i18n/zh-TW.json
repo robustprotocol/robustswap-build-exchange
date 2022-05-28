@@ -1901,6 +1901,12 @@
         "stringId": 10041,
         "text": "24小時高"
       }
+    },
+    {
+      "data": {
+        "stringId": 10042,
+        "text": "交易挖礦獎勵"
+      }
     }
   ],
   "pagination": {

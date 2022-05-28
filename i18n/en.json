@@ -371,6 +371,12 @@
         "stringId": 333,
         "text": "Staked Tokens"
       }
+    },
+    {
+      "data": {
+        "stringId": 10042,
+        "text": "Trade Mining Reward"
+      }
     }
   ],
   "pagination": {
